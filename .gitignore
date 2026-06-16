@@ -8,5 +8,6 @@ content_data/
 style_data/
 
 *.pth
+!vgg_normalised.pth
 
 static/uploads/
