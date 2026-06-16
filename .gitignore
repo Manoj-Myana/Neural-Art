@@ -3,11 +3,11 @@ __pycache__/
 
 .vscode/
 
-experiment/
 content_data/
 style_data/
 
+static/uploads/
+
 *.pth
 !vgg_normalised.pth
-
-static/uploads/
+!experiment/final_exp/decoder_final.pth
