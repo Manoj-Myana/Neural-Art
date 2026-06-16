@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+
+.vscode/
+
+experiment/
+content_data/
+style_data/
+
+*.pth
+
+static/uploads/
